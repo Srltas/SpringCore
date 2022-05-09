@@ -21,3 +21,15 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# advanced 프로젝트 설정파일
+advanced/.gradle
+advanced/.idea
+advanced/build
+advanced/gradle
+advanced/out
+advanced/.gitignore
+advanced/gradlew
+advanced/gradlew.bat
+advanced/HELP.md
+advanced/settings.gradle
