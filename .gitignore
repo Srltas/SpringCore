@@ -33,3 +33,16 @@ advanced/gradlew
 advanced/gradlew.bat
 advanced/HELP.md
 advanced/settings.gradle
+
+# proxy 프로젝트 설정파일
+proxy/.gradle
+proxy/.idea
+proxy/build
+proxy/gradle
+proxy/out
+proxy/.DB_Store
+proxy/.gitignore
+proxy/gradlew
+proxy/gradlew.bat
+proxy/HELP.md
+proxy/settings.gradle
