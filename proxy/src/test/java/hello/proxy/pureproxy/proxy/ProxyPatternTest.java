@@ -3,6 +3,7 @@ package hello.proxy.pureproxy.proxy;
 import hello.proxy.pureproxy.decorator.code.Component;
 import hello.proxy.pureproxy.decorator.code.DecoratorPatternClient;
 import hello.proxy.pureproxy.decorator.code.RealComponent;
+import hello.proxy.pureproxy.decorator.code.TimeDecorator;
 import hello.proxy.pureproxy.proxy.code.*;
 import org.junit.jupiter.api.Test;
 
