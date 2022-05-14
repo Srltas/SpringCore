@@ -40,7 +40,7 @@ proxy/.idea
 proxy/build
 proxy/gradle
 proxy/out
-proxy/.DB_Store
+proxy/.DS_Store
 proxy/.gitignore
 proxy/gradlew
 proxy/gradlew.bat
