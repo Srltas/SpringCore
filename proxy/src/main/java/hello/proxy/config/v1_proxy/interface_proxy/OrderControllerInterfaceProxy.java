@@ -29,7 +29,7 @@ public class OrderControllerInterfaceProxy implements OrderControllerV1 {
     }
 
     @Override
-    public String noLong() {
-        return target.noLong();
+    public String noLog() {
+        return target.noLog();
     }
 }
