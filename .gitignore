@@ -46,3 +46,14 @@ proxy/gradlew
 proxy/gradlew.bat
 proxy/HELP.md
 proxy/settings.gradle
+
+# aop 프로젝트 설정파일
+aop/.gradle
+aop/.idea
+aop/gradle
+aop/out
+aop/.gitignore
+aop/gradlew
+aop/gradlew.bat
+aop/HELP.md
+aop /settings.gradle
