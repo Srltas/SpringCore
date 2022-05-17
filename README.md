@@ -29,3 +29,7 @@
  - 프록시 팩토리를 이용한 예제 코드에 프록시 적용
  - 빈 후처리기 개념 학습
  - 스프링에서 제공해주는 AnnotationAwareAspectJAutoProxyCreator, @Aspect Annotation을 이용해 예제 코드 횡단 관심사 처리
+
+# 22.05.17
+ - 스프링 AOP 개념 학습(애스펙트, 위빙, 조인 포인트, 포인트컷, 타겟, 어드바이스, 어드바이저)
+ - 스프링 AOP 코드로 구현
