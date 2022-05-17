@@ -56,4 +56,4 @@ aop/.gitignore
 aop/gradlew
 aop/gradlew.bat
 aop/HELP.md
-aop /settings.gradle
+aop/settings.gradle
