@@ -36,3 +36,6 @@
 
 # 22.05.18
  - 어드바이스 추가, 포인트컷 참조, 어드바이스 순서 조정, 어드바이스 종류 학습 및 코드 작성
+
+# 22.05.19
+ - 스프링 AOP 포인트컷 : exectuion, within, args, @target, @within, @annotaion, @args, bean, this, target 학습
