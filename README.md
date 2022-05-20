@@ -39,3 +39,7 @@
 
 # 22.05.19
  - 스프링 AOP 포인트컷 : exectuion, within, args, @target, @within, @annotaion, @args, bean, this, target 학습
+
+# 22.05.20
+ - 프록시 내부 호출 문제, 문제 해결을 위한 방법(자기 자신 주입, 지연 조회, 구조 변경)
+ - JDK 동적 프록시, CGLIB 문제점과 해결 방법 학습
